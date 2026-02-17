@@ -12,5 +12,5 @@ Metrics:
 * Precision Score
 * Recall Score
 * F1 Score
-
+Task Assigned by Udemy(7 Days AI Development Bootcamp)
 Dataset we used(https://www.kaggle.com/datasets/colormap/spambase)
